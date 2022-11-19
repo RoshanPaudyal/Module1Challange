@@ -18,8 +18,13 @@ They focused on removing the need for startups to worry about the financial side
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 Until Strip came to the market setting up a way to accept credit card payment especially online was not as simple. It required working with an existing merchant services company and setting up complex systems and integration. 
-Stripe provided a very simple solution to integrate which allowed the businesses to charge credit card immediately. By working with Stripe businesses could ofload the burdens associated with setting up online credit card payment, including payment gateways, credit card storage, PCi compliance and managing banking relationships.
+Stripe provided a very simple solution to integrate which allowed the businesses to charge credit card immediately. By working with Stripe businesses could ofload the burdens associated with setting up online credit card payment, including payment gateways, credit card storage, PCI compliance and managing banking relationships.
 They used the acronym M.I.L.E.S, where Mm stands for money, I for intelligence, and insights, L for location amn luck, E for education and expertise, S for status.
+Following are the list of additional top features of stripe:
+1. Stripe Connect – Make payments without the hassle of accounting, security challenges, or legal compliance. Stripe takes a small fee.
+2. Stripe Atlas – Step-by-step assistance for enterprises. Includes stock issuance, incorporation, documentation, and a basic Stripe account for accepting payments.
+3. Stripe Sigma – Uses SQL that enables in-depth reporting and analytics.
+4. Stripe Relay – Best for product publishing, ordering, payment, and partnering with other vendors all managed by the Relay system. 
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
@@ -40,13 +45,13 @@ The software-as-a-service(SaaS) industry was till young and adption was low. Now
 Ten years ago business that wanted to sell online had to first go through the time consuming process of applying for a merchant account. And, if a software platform wanted to integrate payments into its products, it had to invest considerable resources building that infrastructure itself.Stripe created Connect to solve this issue. A wide range of companies have adopted Connect, including marketplaces like Carvana, which uses Connect to power its online marketplace for used cars, and media platforms like Twitter and Spotify, which use Connect to let creators monetize their audiences. More recently, enterprises have been adopting Connect; Ford Motor Company will use Connect to expand its ecommerce infrastructure for both customers and dealers.
 ### What are the other major companies in this domain?
 We almost forgot what life was like before mobile apps allowed us to pay freinds or merchant with just a few taps. Fintech payment processing companies have been evolving with userfriendly interfaces everyday. Thanks to them for making it easir to move money around. Some of the company specalize in offering buy now pay later integration for ecommerce to attaract young customers, while others are peer to peer payment platforms that everyday people use to split checks and pay monthly dues. Howevery their goal are same allowing people to make payment faster simpler and more secure. Lets round up the top payment processors and online payment processing services exsist in current market.
-1. Flex: The company covers rent payments and allows customers to pay back amounts on their own schedules, creating a more flexible payment experience.
-2. RevenueCat: This company help businesses track customer payments on Android, iOS and web formats.
-3. SpotOn: This company is dedicated in helping small businesses streamline operations, connect with customers and increase revenue by providing them with an end-to-end solution for managing all of their payments needs.
-4. Build:Billd is a payment solution for the construction industry that allows contractors to acquire the supplies they need to complete a job and pay suppliers over a period of time.
-Flywire: Flywire helps craft personalized fintech payment platforms for a variety of international industries, including travel, education and healthcare  .
-5. Remitly:Remitly is a fintech company that aims to simplify international money transfers and payments.
-6. Ripple: Ripple uses blockchain to process and secure their RippleNet payment network. With RippleNet, customers have access to a network of more than 200 banks including American Express, BMO and PNC and they can make cross-border payments instantaneously.
+1. Flex - The company covers rent payments and allows customers to pay back amounts on their own schedules, creating a more flexible payment experience.
+2. RevenueCat - This company help businesses track customer payments on Android, iOS and web formats.
+3. SpotOn - This company is dedicated in helping small businesses streamline operations, connect with customers and increase revenue by providing them with an end-to-end solution for managing all of their payments needs.
+4. Build - Billd is a payment solution for the construction industry that allows contractors to acquire the supplies they need to complete a job and pay suppliers over a period of time.
+5. Flywire - Flywire helps craft personalized fintech payment platforms for a variety of international industries, including travel, education and healthcare  .
+6. Remitly - Remitly is a fintech company that aims to simplify international money transfers and payments.
+7. Ripple - Ripple uses blockchain to process and secure their RippleNet payment network. With RippleNet, customers have access to a network of more than 200 banks including American Express, BMO and PNC and they can make cross-border payments instantaneously.
 
 ## Results
 
@@ -65,8 +70,11 @@ Stripe customers reported that they can build and extend their online payments p
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I would make a recommendation that stripe could offer subscription based pricing model and direct cost of interchange transaction fees like Stax. This is becasue per transaction fee for some business could be a big overhead and would rather go for a different payment platform like Stax where they can pay one subcription for a month or a year. Lot of businesses can forcast the number of transaction they will be processing in a certain time period based on which they can buy subscription.  
 
 * Why do you think that offering this product or service would benefit the company?
+Offering subscription based pricing model would benifit company becasue per transaction fee for some business could be a big overhead and would rather go for a different payment platform like Stax where they can pay one subcription for a month or a year. Lot of businesses can forcast the number of transaction they will be processing in a certain time period based on which they can buy subscription.  
+
 
 * What technologies would this additional product or service utilise?
 
